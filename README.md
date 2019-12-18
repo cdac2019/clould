@@ -76,3 +76,33 @@ sudo docker images
 sudo docker container run -it --publish 8082:8080 tomcatwebapp1
 
 chrome run
+
+
+yum install java 
+
+yum install tomcat
+
+netstat -tulpn
+
+cp filename /usr/share/tomcat/webapps
+
+
+
+git clone < url of your git repostery    >
+
+
+git add -A
+
+git commit -m
+
+git push 
+.
+git pull
+
+git status
+
+git branch -a
+
+git cheack <branch>
+
+git clone <url>
